@@ -1,5 +1,5 @@
 [package]
-name = "snow-meme"
+name = "snow_meme"
 version = "0.1.0"
 edition = "2021"
 
